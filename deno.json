@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "zod": "npm:zod@3.22.4",
+    "currency.js": "npm:currency.js@2.0.4",
+    "ts-pattern": "npm:ts-pattern@5.0.5",
+    "dotenv": "https://deno.land/std@0.207.0/dotenv/mod.ts"
+  }
+}
